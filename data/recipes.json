@@ -1,19 +1,28 @@
 [
     {
-        "Name": "Przepis 1",
-        "Description": "Opis przepisu 1",
+        "RecipeID": 1,
+        "Name": "BloodyMary",
+        "Description": "Wszystkie składniki wymieszać w szklance z lodem i ozdobić selerem naciowym.",
         "Ingredients": [
-            "Składnik 1",
-            "Składnik 2",
-            "Składnik 3"
+            "40 ml wódki",
+            "10 ml soku z cytryny",
+            "120 ml soku pomidorowego",
+            "sos worchestershire",
+            "sól",
+            "pieprz",
+            "tabasco",
+            "gałązka selera naciowego"
+
         ],
         "Steps": [
-            "Krok 1",
-            "Krok 2",
-            "Krok 3"
-        ]
+            100,
+            200,
+            4000
+        ],
+        "image": "r1.jpg"
     },
     {
+        "RecipeID": 2,
         "Name": "Przepis 2",
         "Description": "Opis przepisu 2",
         "Ingredients": [
@@ -22,12 +31,13 @@
             "Składnik 3"
         ],
         "Steps": [
-            "Krok 1",
-            "Krok 2",
-            "Krok 3"
-        ]
+            177,
+            50
+        ],
+        "image": "r2.jpg"
     },
     {
+        "RecipeID": 3,
         "Name": "Przepis 3",
         "Description": "Opis przepisu 3",
         "Ingredients": [
@@ -36,9 +46,10 @@
             "Składnik 3"
         ],
         "Steps": [
-            "Krok 1",
-            "Krok 2",
-            "Krok 3"
-        ]
+            10000,
+            122,
+            50
+        ],
+        "image": "r3.jpg"
     }
 ]
