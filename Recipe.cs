@@ -6,5 +6,5 @@ public class Recipe {
     public String Description { get; set; }
     public String[] Ingredients { get; set; }
     public int[] Steps { get; set; }
-    public String image { get; set; }
+    public String Image { get; set; }
 }

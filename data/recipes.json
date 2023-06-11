@@ -19,7 +19,7 @@
             200,
             4000
         ],
-        "image": "r1.jpg"
+        "Image": "r1.jpg"
     },
     {
         "RecipeID": 2,
@@ -34,7 +34,7 @@
             177,
             50
         ],
-        "image": "r2.jpg"
+        "Image": "r2.jpg"
     },
     {
         "RecipeID": 3,
@@ -50,6 +50,22 @@
             122,
             50
         ],
-        "image": "r3.jpg"
+        "Image": "r3.jpg"
+    },
+    {
+        "RecipeID": 4,
+        "Name": "Przepis 4",
+        "Description": "Opis przepisu 4",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            4145,
+            122,
+            65
+        ],
+        "Image": "r4.jpg"
     }
 ]
