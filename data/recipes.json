@@ -1,6 +1,7 @@
 [
     {
         "RecipeID": 1,
+        "Category": "meat",
         "Name": "BloodyMary",
         "Description": "Wszystkie składniki wymieszać w szklance z lodem i ozdobić selerem naciowym.",
         "Ingredients": [
@@ -23,6 +24,7 @@
     },
     {
         "RecipeID": 2,
+        "Category": "vegan",
         "Name": "Przepis 2",
         "Description": "Opis przepisu 2",
         "Ingredients": [
@@ -31,13 +33,14 @@
             "Składnik 3"
         ],
         "Steps": [
-            177,
+            2,
             50
         ],
         "Image": "r2.jpg"
     },
     {
         "RecipeID": 3,
+        "Category": "vegan",
         "Name": "Przepis 3",
         "Description": "Opis przepisu 3",
         "Ingredients": [
@@ -54,6 +57,7 @@
     },
     {
         "RecipeID": 4,
+        "Category": "meat",
         "Name": "Przepis 4",
         "Description": "Opis przepisu 4",
         "Ingredients": [
