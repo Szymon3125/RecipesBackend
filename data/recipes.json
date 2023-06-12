@@ -24,7 +24,7 @@
     },
     {
         "RecipeID": 2,
-        "Category": "vegan",
+        "Category": "vegetarian",
         "Name": "Przepis 2",
         "Description": "Opis przepisu 2",
         "Ingredients": [
@@ -34,13 +34,15 @@
         ],
         "Steps": [
             2,
-            50
+            1,
+            2,
+            4
         ],
         "Image": "r2.jpg"
     },
     {
         "RecipeID": 3,
-        "Category": "vegan",
+        "Category": "vegetarian",
         "Name": "Przepis 3",
         "Description": "Opis przepisu 3",
         "Ingredients": [
