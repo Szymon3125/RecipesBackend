@@ -1,49 +1,55 @@
 [
     {
         "RecipeID": 1,
-        "Category": "meat",
-        "Name": "BloodyMary",
-        "Description": "Wszystkie składniki wymieszać w szklance z lodem i ozdobić selerem naciowym.",
+        "Category": "vegetarian",
+        "Name": "Zupa ziemniaczana",
+        "Description": "Ziemniaki, selera i cebulę obierz, pokrój w kostkę ziemniaki, pora pokrój w plastry, cebulę posiekaj.\n\nW garnku usmaż warzywa, zalej około 800 ml wody, dodaj kostkę rosołową. Zupę gotuj około 20 minut, aż ziemniaki będą miękkie. Zupę zmiksuj w kielichu blendera, zapraw śmietaną, dopraw do smaku pieprzem i gałką muszkatową.\n\nChleb pokrój w kostkę, posiekaj szczypior. Chleb rozłóż na blasze z piekarnika. Grzanki opiecz na złoty kolor w nagrzanym do 180° C piekarniku.\n\nZupę podawaj z grzankami, posypaną szczypiorem.",
         "Ingredients": [
-            "40 ml wódki",
-            "10 ml soku z cytryny",
-            "120 ml soku pomidorowego",
-            "sos worchestershire",
-            "sól",
-            "pieprz",
-            "tabasco",
-            "gałązka selera naciowego"
-
+            "ziemniaki 500 gramów",
+            "seler 1 sztuka",
+            "por, tylko biała część 1 sztuka",
+            "cebula 1 sztuka",
+            "bulion warzywny 1 sztuka",
+            "śmietana 18% 50 mililitrów",
+            "biały pieprz 1 szczypta",
+            "gałka muszkatołowa 1 szczypta",
+            "szczypiorek 2 łyżki",
+            "oliwa z oliwek 3 łyżki",
+            "kromka pieczywa tostowego 8 sztuk"
         ],
         "Steps": [
-            100,
-            200,
-            4000
+            1200,
+            180
         ],
-        "Image": "r1.jpg"
+        "Image": "zupa-ziemniaczana.webp"
     },
     {
         "RecipeID": 2,
         "Category": "vegetarian",
-        "Name": "Przepis 2",
-        "Description": "Opis przepisu 2",
+        "Name": "Pulpety z soczewicy",
+        "Description": "Soczewicę przepłucz pod bieżącą wodą. Umieść w garnku, zalej wodą centymetr nad powierzchnię. Dodaj kostkę rosołową i gotuj na wolnym ogniu pod przykryciem, około 20-30 minut, aż soczewica zrobi się zupełnie miękka.\n\nMarchew zetrzyj na tarce. Cebulę, czosnek i natkę pietruszki drobno posiekaj.\n\nW garnku na rozgrzanym tłuszczu zeszklij cebulę i czosnek , dodaj marchew, smaż wszystko razem przez 2-3 minuty. Dodaj ugotowaną soczewicę, gotuj wszystko razem kolejne dwie minuty. Soczewicę przełóż do malaksera, zmiksuj wszystko na gęsta pastę. Powstały farsz przestudź, dodaj bułkę, jajko i posiekaną natkę pietruszki. Z gęstej masy uformuj średniej wielkości kulki, obtocz je w pozostałej bułce.\n\nKulki ułóż na blasze do pieczenia wyłożonej pergaminem, delikatnie skrop oliwą i wstaw do nagrzanego do 200*C piekarnika, na około 25- 30 minut. Piecz, aż kulki uzyskają złocisty kolor.\n\nZagotuj - jeśli sos jest za gęsty dodaj kilka łyżek wody, aby uzyskać odpowiednią konsystencję.\n\nUpieczone pulpety podawaj z sosem pomidorowym.",
         "Ingredients": [
-            "Składnik 1",
-            "Składnik 2",
-            "Składnik 3"
+            "karkówka wieprzowa 600 gramów",
+            "sos do pieczeni 1 sztuka",
+            "woda 1 litr",
+            "majeranek 1 łyżeczka",
+            "cebula 3 sztuki",
+            "mąka 4 łyżki",
+            "liść laurowy 1 sztuka",
+            "ziele angielskie 2 ziarna",
+            "pieprz czarny ziarnisty 2 ziarna",
+            "olej do smażenia"
         ],
         "Steps": [
-            2,
-            1,
-            2,
-            4
+            360,
+            400
         ],
-        "Image": "r2.jpg"
+        "Image": "karkowka-duszona-w-sosie-wlasnym-z-cebula.webp"
     },
     {
         "RecipeID": 3,
         "Category": "vegetarian",
-        "Name": "Przepis 3",
+        "Name": "Szparagi z sosem",
         "Description": "Opis przepisu 3",
         "Ingredients": [
             "Składnik 1",
@@ -51,16 +57,16 @@
             "Składnik 3"
         ],
         "Steps": [
-            10000,
-            122,
-            50
+            2,
+            3,
+            4
         ],
-        "Image": "r3.jpg"
+        "Image": "szparagi-z-sosem.webp"
     },
     {
         "RecipeID": 4,
-        "Category": "meat",
-        "Name": "Przepis 4",
+        "Category": "vegetarian",
+        "Name": "Ogórki curry",
         "Description": "Opis przepisu 4",
         "Ingredients": [
             "Składnik 1",
@@ -68,10 +74,359 @@
             "Składnik 3"
         ],
         "Steps": [
-            4145,
-            122,
-            65
+            2,
+            3,
+            4
         ],
-        "Image": "r4.jpg"
+        "Image": "ogorki-curry.avif"
+    },
+    {
+        "RecipeID": 5,
+        "Category": "vegetarian",
+        "Name": "Spaghetti bolognese z warzywami i pieczarkami",
+        "Description": "Opis przepisu 5",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "Image": "spaghetti-bolognese-z-warzywami-i-pieczarkami.webp"
+    },
+    {
+        "RecipeID": 6,
+        "Category": "vegetarian",
+        "Name": "Amerykańskie naleśniki (pancakes)",
+        "Description": "Opis przepisu 6",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "amerykanskie-nalesniki-pancakes.webp"
+    },
+    {
+        "RecipeID": 7,
+        "Category": "vegetarian",
+        "Name": "Bruschetta",
+        "Description": "Opis przepisu 7",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "bruschetta.avif"
+    },
+    {
+        "RecipeID": 8,
+        "Category": "vegetarian",
+        "Name": "Sałatka z kuskusem",
+        "Description": "Opis przepisu 8",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "salatka-z-kuskusem.webp"
+    },
+    {
+        "RecipeID": 9,
+        "Category": "vegetarian",
+        "Name": "Kotlety z marchewki",
+        "Description": "Opis przepisu 9",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "kotlety-z-marchewki.webp"
+    },
+    {
+        "RecipeID": 10,
+        "Category": "vegetarian",
+        "Name": "Sałatka z awokado, orzechów i szpinaku",
+        "Description": "Opis przepisu 10",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "salatka-z-awokado-orzechow-i-szpinaku.webp"
+    },
+    {
+        "RecipeID": 11,
+        "Category": "vegetarian",
+        "Name": "Smażony makaron z tofu i warzywami",
+        "Description": "Opis przepisu 11",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "smazony-makaron-z-tofu-i-warzywami.jpg"
+    },
+    {
+        "RecipeID": 12,
+        "Category": "vegetarian",
+        "Name": "Jajka faszerowane guacamole",
+        "Description": "Opis przepisu 11",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "jajka-faszerowane-guacamole.webp"
+    },
+    {
+        "RecipeID": 13,
+        "Category": "meat",
+        "Name": "Pieczeń ze schabu w glazurze z dżemu morelowego z cebulą i jabłkiem",
+        "Description": "Schab umyj, osusz, oczyść z przerostów tłuszczu i błon, które są na powierzchni mięsa. Pokrój w cienkie (0,5 cm) grubości plastry, nie docinając ich jednak do końca.\n\nW misce wymieszaj Przyprawę do mięsa wieprzowego z olejem, octem i dżemem morelowym. Powstałą marynatą natrzyj mięso dokładnie, również w nacięciach.\n\nW nacięcia włóż cząstkę jabłka i plaster cebuli.\n\nPlastry słoniny nałóż na mięso i wstaw do nagrzanego do 180°C piekarnika na co najmniej 50 minut. Po tym czasie sprawdź, czy mięso jest już upieczone. Jeśli wciąż będzie niedopieczone, wydłuż czas o kolejne 10 minut.",
+        "Ingredients": [
+            "schab środkowy 1.5 kilograma",
+            "kwaśne jabłko 1 sztuka",
+            "szalotki 6 sztuk",
+            "przyprawa do wieprzowiny 1 opakowanie",
+            "słonina 400 gramów",
+            "dżem morelowy 2 łyżki",
+            "ocet jabłkowy 2 łyżki",
+            "olej 2 łyżki"
+        ],
+        "Steps": [
+            3000,
+            600
+        ],
+        "Image": "pieczen_ze_schabu_w_glazurze_z_dzemu_morelowego_z_cebula_i_jablkiem.webp"
+    },
+    {
+        "RecipeID": 14,
+        "Category": "meat",
+        "Name": "Duszona karkówka w sosie własnym z cebulą",
+        "Description": "Mięso opłucz i pokrój na kotlety grubości 2 cm.\n\nKażdy rozbij lekko tłuczkiem, posyp pieprzem i oprósz mąką.\n\nW następnej kolejności obsmaż je z obu stron na złoty kolor na rozgrzanym oleju.\n\nCebule pokrój w piórka i przesmaż w garnku na rozgrzanym oleju, dodaj majeranek, liść laurowy oraz ziele.\n\nGdy cebula nabierze złotego koloru, wsyp pozostałą mąkę i przesmaż razem. Następnie dodaj 1 l wrzącej wody.\n\nWłóż mięso, sos do pieczeni i duś na małym ogniu do momentu, gdy karkówka będzie miękka. Podawaj z ziemniakami lub kaszą.",
+        "Ingredients": [
+            "schab środkowy 1.5 kilograma",
+            "kwaśne jabłko 1 sztuka",
+            "szalotki 6 sztuk",
+            "przyprawa do wieprzowiny 1 opakowanie",
+            "słonina 400 gramów",
+            "dżem morelowy 2 łyżki",
+            "ocet jabłkowy 2 łyżki",
+            "olej 2 łyżki"
+        ],
+        "Steps": [
+            3000,
+            600
+        ],
+        "Image": "karkowka-duszona-w-sosie-wlasnym-z-cebula.webp"
+    },
+    {
+        "RecipeID": 15,
+        "Category": "meat",
+        "Name": "Sznycelki drobiowe po francusku",
+        "Description": "Opis przepisu 15",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "sznycelki-drobiowe-po-francusku.webp"
+    },
+    {
+        "RecipeID": 16,
+        "Category": "meat",
+        "Name": "Makaron w sosie pieczarkowym",
+        "Description": "Opis przepisu 16",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "cheesy-chicken-and-pasta_a9727.webp"
+    },
+    {
+        "RecipeID": 17,
+        "Category": "meat",
+        "Name": "Kartacze",
+        "Description": "Opis przepisu 17",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "kartacze.webp"
+    },
+    {
+        "RecipeID": 18,
+        "Category": "meat",
+        "Name": "Naleśniki z kurczakiem i brokułami",
+        "Description": "Opis przepisu 18",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "nalesniki-z-kurczakiem-i-brokulami.webp"
+    },
+    {
+        "RecipeID": 19,
+        "Category": "meat",
+        "Name": "Duszony kurczak z warzywami",
+        "Description": "Opis przepisu 19",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "duszony-kurczak-z-warzywami.webp"
+    },
+    {
+        "RecipeID": 20,
+        "Category": "meat",
+        "Name": "Gulasz węgierski z ziemniakami",
+        "Description": "Opis przepisu 20",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "pio_0151935911588802699500.jpg"
+    },
+    {
+        "RecipeID": 21,
+        "Category": "meat",
+        "Name": "Sałatka gyros",
+        "Description": "Opis przepisu 21",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "salatka-gyros-2.webp"
+    },
+    {
+        "RecipeID": 22,
+        "Category": "meat",
+        "Name": "Zrazy kasztelańskie",
+        "Description": "Opis przepisu 22",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "zrazy-kasztelanskie.webp"
+    },
+    {
+        "RecipeID": 23,
+        "Category": "meat",
+        "Name": "Pierś z kurczaka pod pierzynką z majonezu",
+        "Description": "Opis przepisu 23",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "piers-z-kurczaka-pod-pierzynka-z-majonezu.webp"
+    },
+    {
+        "RecipeID": 24,
+        "Category": "meat",
+        "Name": "Królik pieczony",
+        "Description": "Opis przepisu 24",
+        "Ingredients": [
+            "Składnik 1",
+            "Składnik 2",
+            "Składnik 3"
+        ],
+        "Steps": [
+            2,
+            3,
+            4
+        ],
+        "Image": "pieczony-krolik.webp"
     }
 ]
